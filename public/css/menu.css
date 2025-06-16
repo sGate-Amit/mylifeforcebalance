@@ -1,0 +1,75 @@
+/************   TOP MENU *****************/
+#block-nice_menus-1 ul.nice-menu{
+margin:0px;
+padding:0px;
+margin-left:5px;
+border:none;
+background:none;
+}
+#block-nice_menus-1 ul.nice-menu li{margin:0px;padding:0px;border:none;background:none;border-right:1px solid #E1E1E1;}
+#block-nice_menus-1 ul.nice-menu li a.active{
+background:#004221;
+color:#ffffff;
+border-right:1px solid #004221;
+}
+
+#block-nice_menus-1 ul.nice-menu li a{
+margin:0px;
+padding:0px;
+padding:8px;
+padding-left:10px;
+padding-right:10px;
+
+border:none;
+background:none;
+font-size:13px;
+color:#5F5F5F;
+}
+#block-nice_menus-1 ul.nice-menu li a:hover{
+background:#004221;
+color:#ffffff;
+text-decoration:none;
+}
+
+/***********  FOOTER MENU ************************/
+#block-nice_menus-2{
+margin:0px;
+padding:0px;
+width:499px;
+margin-bottom:10px;
+margin-left:auto;
+margin-right:auto;
+
+}
+#block-nice_menus-2 ul.nice-menu{
+margin:0px;
+padding:0px;
+border:none;
+background:none;
+
+}
+#block-nice_menus-2 ul.nice-menu li{
+margin:0px;
+padding:6px;
+padding-top:0px;
+padding-bottom:0px;
+border:none;
+background:none;
+border-right:1px solid #656565;
+}
+#block-nice_menus-2 ul.nice-menu li a{
+margin:0px;
+padding:0px;
+border:none;
+background:none;
+font-size:12px;
+color:#656565;
+font-weight:normal;
+}
+#block-nice_menus-2 ul.nice-menu li a:hover{
+text-decoration:none;
+}
+
+#block-nice_menus-2 ul.nice-menu  #menu-928{
+border-right:0px solid #656565;
+}

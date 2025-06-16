@@ -1,0 +1,188 @@
+/*************   WRAPPER VID *******************/
+/**************   CSS FOR WRAPPER WHICH BINDS WHOLE ROLLER OVER IMAGE ***************/
+#custom-slider-wrapper{
+margin:0px;
+padding:0px;
+margin-top:3px;
+margin-left:2px;
+width:940px;
+height:250px;
+background:#FFFFCC;
+}
+/***************    CSS FOR TITLE DIV ************************/
+#paginate-slider1{
+margin:0px;
+padding:0px;
+margin-left:5px;
+width:220px;
+height:250px;
+float:left;
+overflow:hidden;
+
+}
+/**********************    CSS FOR SLIDER CONTETN AREA *********************/
+#slider1{
+margin:0px;
+padding:0px;
+width:710px;
+height:250px;
+overflow:hidden;
+}
+
+/****************  begining css of contetn area ******************/
+
+.custom-rollover-content{
+margin:0px;
+padding:5px;
+padding-left:30px;
+width:490px;
+height:240px;
+overflow:hidden;
+float:left;
+}
+.custom-rollover-image{
+margin:0px;
+padding:0px;
+width:170px;
+height:250px;
+overflow:hidden;
+float:right;
+}
+
+.custom-rollover-content h2{
+margin:0px;
+padding:0px;
+}
+
+.custom-rollover-content ul{
+margin:0px;
+padding:0px;
+padding-top:10px;
+}
+.custom-rollover-content ul li{
+margin:0px;
+padding:0px;
+font-size:14px;
+margin-bottom:10px;
+font-family:Arial, Helvetica, sans-serif;
+}
+
+/****************  end css of contetn area ******************/
+.sliderwrapper{
+position: relative; /*leave as is*/
+overflow: hidden; /*leave as is*/
+border:0px solid #ff0000;
+width: 720px; /*width of featured content slider*/
+height: 200px;
+
+}
+.sliderwrapper .contentdiv{
+visibility: hidden; /*leave as is*/
+position: absolute; /*leave as is*/
+left: 0;  /*leave as is*/
+top: 0;  /*leave as is*/
+padding: 0px;
+border:0px solid #ff0000;
+
+  /*width of content DIVs within slider. Total width should equal slider's inner width (390+5+5=400) */
+
+
+}
+
+.pagination{
+width: 220px; /*Width of pagination DIV. Total width should equal slider's outer width (400+10+10=420)*/
+text-align: right;
+border:0px solid #ffffff;
+margin-top:0px;
+/*background-color:#ffffff;*/
+
+
+
+
+
+}
+
+.pagination a{
+padding-top:9px;
+padding-left:15px;
+margin-bottom:1px;
+font-size:12px;
+font-family: Arial, Helvetica, sans-serif; 
+float:left;
+width: 205px;
+height:26px;
+font-weight:bold;
+text-decoration: none; 
+color: #ffffff;
+text-align:left;
+background:url('../images/slide-bg.jpg');
+background-repeat:no-repeat;
+background-position:center;
+overflow:none;
+}
+
+
+.pagination a:hover, .pagination a.selected{
+padding-top:9px;
+padding-left:15px;
+font-size:12px;
+float:left;
+width: 205px;
+height:26px;
+text-align:left;
+font-family: Arial, Helvetica, sans-serif; 
+color: #333333;
+font-weight:bold;
+background:url('../images/slide-hover.jpg');
+background-repeat:no-repeat;
+overflow:none;
+
+}
+
+
+/*html css*/
+.bluehead {
+font-family:Arial, Helvetica, sans-serif;	
+font-size: 44px;
+font-weight: bold;
+color: #1F7DB0;
+border:0px solid #ff0000;
+text-align:left;
+}
+.bluehead a:link{
+font-family:Arial, Helvetica, sans-serif;	
+font-size: 44px;
+font-weight: bold;
+color: #1F7DB0;
+border:0px solid #ff0000;
+text-align:left;
+}
+.bluehead a:visited{
+font-family:Arial, Helvetica, sans-serif;	
+font-size: 44px;
+font-weight: bold;
+color: #1F7DB0;
+border:0px solid #ff0000;
+text-align:left;
+}
+.bluehead a:hover{
+font-family:Arial, Helvetica, sans-serif;	
+font-size: 44px;
+font-weight: bold;
+color: #1F7DB0;
+border:0px solid #ff0000;
+text-align:left;
+}
+
+
+
+.itemsgreen {
+
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 19px;
+	text-align:left;
+	font-weight: bold;
+	color: #819A47;
+	text-decoration: none;
+}
+

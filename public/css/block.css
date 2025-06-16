@@ -1,0 +1,178 @@
+/***********************************************************/
+.custom-health-guide-title{
+font-size:14px;
+color:#333333;
+font-weight:bold;
+padding-bottom:3px;
+margin-bottom:5px;
+border-bottom:1px solid #333333;
+}
+.custom-health-guide-image{
+}
+.custom-health-guide-teaser{
+font-size:13px;
+color:#333333;
+line-height:17px;
+}
+.custom-health-guide-button{
+padding-top:4px;
+width:80px;
+height:21px;
+float:right;
+background:url(../images/block-button.png) no-repeat top left;
+}
+
+.custom-health-guide-button a{
+margin-right:10px;
+color:#333333;
+font-size:12px;
+}
+
+
+/*************   LEFT SIDE BAR BLOCK **************************/
+#sidebar-left .block{
+margin:0px;
+padding:0px;
+width:180px;
+margin-bottom:10px;
+}
+#sidebar-left .block ul{
+list-style:none;
+}
+#sidebar-left .block ul li{
+list-style:none;
+}
+#sidebar-left .block h2{
+margin:0px;
+padding:0px;
+padding-left:10px;
+padding-top:5px;
+font-size:18px;
+width:180px;
+height:29px;
+font-family:Arial, Helvetica, sans-serif;
+color:#ffffff;
+background:url(../images/articles_tab.png) no-repeat top left;
+}
+
+#sidebar-left .block .content{
+margin:0px;
+padding:0px;
+width:176px !important;
+border-left:2px solid #004221;
+border-right:2px solid #004221;
+}
+
+#sidebar-left #block-bottom{
+margin:0px;
+padding:0px;
+width:180px;
+height:11px;
+background:url(../images/block-bottom-article.png) no-repeat top left;
+}
+
+#sidebar-left .block .content{
+background:#ffffff !important;
+}
+
+#sidebar-left .block .content a{
+color:#0033CC !important;
+font-weight:normal !important;
+}
+
+
+
+/*************   RIGHT SIDE BAR BLOCK **************************/
+#sidebar-right .block{
+margin:0px;
+padding:0px;
+width:180px;
+margin-bottom:10px;
+}
+#sidebar-right .block h2{
+margin:0px;
+padding:0px;
+padding-left:10px;
+padding-top:5px;
+font-size:18px;
+width:180px;
+height:29px;
+font-family:Arial, Helvetica, sans-serif;
+color:#ffffff;
+background:url(../images/articles_tab.png) no-repeat top left;
+}
+
+#sidebar-right .block .content{
+margin:0px;
+padding:0px;
+width:176px !important;
+border-left:2px solid #7BA552;
+border-right:2px solid #7BA552;
+}
+
+#sidebar-right #block-bottom{
+margin:0px;
+padding:0px;
+width:180px;
+height:11px;
+background:url(../images/block-bottom-article.png) no-repeat top left;
+}
+
+#sidebar-right .block .content{
+background:#ffffff !important;
+}
+
+#sidebar-right .block .content a{
+color:#0033CC !important;
+font-weight:normal !important;
+}
+
+
+
+
+
+/*************   CONTENT BOTTOM BLOCK **************************/
+
+#content-area-bottom .block{
+margin:0px;
+padding:0px;
+width:302px;
+margin-bottom:10px;
+margin-left:5px;
+margin-right:5px;
+background:#FFFFCC;
+float:left;
+
+}
+#content-area-bottom .block h2{
+margin:0px;
+padding:0px;
+padding-left:10px;
+padding-top:5px;
+font-size:14px;
+width:292px;
+height:29px;
+font-family:Arial, Helvetica, sans-serif;
+color:#ffffff;
+background:url(../images/block-title-bg.png) no-repeat top left;
+}
+#content-area-bottom .block .content{
+margin:0px;
+padding:10px;
+height:203px;
+width:278px !important;
+border-left:2px solid #86A896;
+border-right:2px solid #86A896;
+}
+#content-area-bottom .block .content p{
+margin:0px;
+padding:0px;
+}
+#content-area-bottom #block-bottom{
+margin:0px;
+padding:0px;
+width:302px;
+height:11px;
+background:url(../images/block-bottom.png) no-repeat top left;
+}
+

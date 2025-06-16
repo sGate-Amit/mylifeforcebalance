@@ -1,0 +1,210 @@
+/***********   FRONT PAGE BLOG VIEW ******************/
+
+#block-views-recent_blog-block_1 .views-field-title{
+font-size:14px;
+color:#333333;
+font-weight:bold;
+padding-bottom:3px;
+margin-bottom:5px;
+text-transform:capitalize;
+}
+
+#block-views-recent_blog-block_1 .views-field-title .field-content{
+border-bottom:1px solid #333333;
+}
+#block-views-recent_blog-block_1 .views-field-field-blog-image-fid{
+width:85px;
+height:90px;
+float:left;
+
+}
+#block-views-recent_blog-block_1 .views-field-teaser{
+font-size:13px;
+color:#333333;
+line-height:17px;
+
+}
+
+#block-views-recent_blog-block_1 .views-field-view-node{
+
+padding-top:4px;
+width:80px;
+height:21px;
+float:right;
+position:relative;
+top:20px;
+background:url(../images/block-button.png) no-repeat top left;
+border:0px solid red;
+}
+
+#block-views-recent_blog-block_1 .views-field-view-node a{
+padding-left:9px;
+color:#333333;
+font-size:12px;
+}
+
+/****************    VIDEO PAGE  VIEW BLOCK ********************/
+#block-views-video_page-block_1{
+margin:0px
+padding:0px;
+margin-top:20px;
+}
+
+#block-views-video_page-block_1 .views-row{
+padding:5px;
+border:1px dashed #cccccc;
+margin-bottom:30px;
+
+}
+#block-views-video_page-block_1 .views-field-title{
+margin:0px
+padding:0px;
+padding-top:3px;
+padding-bottom:3px;
+padding-left:10px;
+/*background:#244018;*/
+color:#244018;
+font-size:12px;
+font-weight:bold;
+text-transform:capitalize;
+
+}
+#block-views-video_page-block_1 .views-field-body{
+margin:0px
+padding:0px;
+text-align:center;
+}
+
+/******************  ARTICLE PAGE VIEW BLOCK ********************/
+
+#block-views-block_page_blog-block_1{
+margin:0px
+padding:0px;
+margin-top:20px;
+}
+
+#block-views-block_page_blog-block_1 .views-row{
+padding:10px;
+border:1px dashed #cccccc;
+padding-bottom:30px;
+margin-bottom:30px;
+
+}
+#block-views-block_page_blog-block_1 .views-field-title{
+margin:0px
+padding:0px;
+padding-top:3px;
+padding-bottom:3px;
+margin-bottom:10px;
+text-transform:capitalize;
+}
+#block-views-block_page_blog-block_1 .views-field-title a{
+color:#244018;
+font-size:12px;
+font-weight:bold;
+}
+
+
+#block-views-block_page_blog-block_1 .views-field-view-node{
+width:80px;
+height:21px;
+padding-top:4px;
+background:url(../images/block-button.png) no-repeat top left;
+float:right;
+}
+#block-views-block_page_blog-block_1 .views-field-view-node a{
+padding-left:9px;
+color:#333333;
+font-size:12px;
+}
+
+/******************  SCIENCE PAGE CSS *************************/
+
+#block-views-Science-block_1{
+margin:0px
+padding:0px;
+margin-top:20px;
+
+}
+
+#block-views-Science-block_1 .views-row{
+padding:10px;
+border:1px dashed #cccccc;
+margin-bottom:30px;
+padding-bottom:30px;
+
+}
+
+#block-views-Science-block_1 .views-field-title{
+margin:0px
+padding:0px;
+padding-top:3px;
+padding-bottom:3px;
+margin-bottom:10px;
+text-transform:capitalize;
+}
+#block-views-Science-block_1 .views-field-title a{
+color:#244018;
+font-size:12px;
+font-weight:bold;
+}
+
+#block-views-Science-block_1 .views-field-view-node{
+width:80px;
+height:21px;
+padding-top:4px;
+background:url(../images/block-button.png) no-repeat top left;
+float:right;
+}
+#block-views-Science-block_1 .views-field-view-node a{
+padding-left:9px;
+color:#333333;
+font-size:12px;
+}
+
+/*********************  SCIENCE BLOCK VIEW ************************/	
+#block-views-Science_content_listing-block_1 .content .view{
+padding:10px !important;
+}
+
+#block-views-Science_content_listing-block_1 .views-field-title{
+text-transform:capitalize;
+}
+/********************* ARTICLES BLOCK VIEW ************************/
+#block-views-Article_content_listing-block_1 .content .view{
+padding:10px !important;
+}
+
+#block-views-Article_content_listing-block_1 .views-field-title{
+text-transform:capitalize;
+}
+
+/**********************   TESTIMONIAL BLOCK VIEW **************************/
+
+
+#block-views-Testimonial-block_1{
+margin:0px
+padding:0px;
+margin-top:20px;
+
+}
+
+#block-views-Testimonial-block_1 .views-row{
+padding:10px;
+border:1px dashed #cccccc;
+margin-bottom:30px;
+padding-bottom:30px;
+
+}
+
+#block-views-Testimonial-block_1 .views-field-title{
+margin:0px
+padding:0px;
+padding-top:3px;
+padding-bottom:3px;
+margin-bottom:10px;
+text-transform:capitalize;
+color:#244018;
+font-size:12px;
+font-weight:bold;
+}
